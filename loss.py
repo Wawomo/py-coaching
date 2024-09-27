@@ -1,5 +1,5 @@
 income = 1000
-cost = 1800
+cost = 100
 if income >= cost:
     #calculate profit
     Profit = income - cost
